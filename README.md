@@ -1,4 +1,4 @@
-# Machine Learning Lab 07: Deep Learning for Image, Text, and Activity Recognition
+# Deep Learning for Image, Text, and Activity Recognition
 
 This repository contains four professional machine learning projects demonstrating the application of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs/LSTMs) for diverse classification tasks.
 
@@ -34,8 +34,8 @@ This repository contains four professional machine learning projects demonstrati
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone <your-repository-url>
+cd deep-learning-classification-hub
 ```
 
 ### 2. Install Dependencies
@@ -51,8 +51,3 @@ The project follows a standard machine learning repository structure:
 - `requirements.txt`: List of required Python packages.
 
 ---
-
-## Evaluation & Professional Standards
-- **Clean Code**: All notebooks follow professional standards with English documentation and standardized variable scopes.
-- **Reproducibility**: Clear sequential steps from data loading to hyperparameter tuning and final evaluation.
-- **Clean Diff**: All notebooks are committed with cleared outputs to ensure stable version control.
