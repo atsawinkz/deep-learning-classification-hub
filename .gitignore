@@ -3,10 +3,12 @@
 __pycache__/
 
 # KerasTuner logs and checkpoints
-random_search/
-grid_search/
-random_search_dir/
-grid_search_dir/
+data/random_search/
+data/grid_search/
+data/random_search_dir/
+data/grid_search_dir/
+data/imdb_rnn/
+data/mnist_cnn/
 
 # Model exports
 *.h5
