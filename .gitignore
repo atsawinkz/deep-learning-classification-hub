@@ -1,10 +1,23 @@
+# Jupyter Notebook artifacts
 .ipynb_checkpoints/
 __pycache__/
+
+# KerasTuner logs and checkpoints
 random_search/
 grid_search/
 random_search_dir/
 grid_search_dir/
+
+# Model exports
 *.h5
 *.hdf5
-UCI_HAR_Dataset/
-ag_news_csv/
+*.keras
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+# Datasets (Large files ignored)
+data/UCI_HAR_Dataset/
+data/ag_news_csv/
