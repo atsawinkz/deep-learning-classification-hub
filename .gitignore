@@ -9,6 +9,7 @@ data/random_search_dir/
 data/grid_search_dir/
 data/imdb_rnn/
 data/mnist_cnn/
+data/CNN_2.mp4/
 
 # Model exports
 *.h5
