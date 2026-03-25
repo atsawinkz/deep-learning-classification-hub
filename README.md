@@ -2,7 +2,7 @@
 
 This repository contains four professional machine learning projects demonstrating the application of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs/LSTMs) for diverse classification tasks.
 
-## 🚀 Projects Included
+## Projects Included
 
 1.  **Handwritten Digit Classification (CNN)**
     - **Notebook:** `notebooks/CNN_MNIST.ipynb`
@@ -30,7 +30,7 @@ This repository contains four professional machine learning projects demonstrati
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -52,10 +52,7 @@ The project follows a standard machine learning repository structure:
 
 ---
 
-## 📊 Evaluation & Professional Standards
+## Evaluation & Professional Standards
 - **Clean Code**: All notebooks follow professional standards with English documentation and standardized variable scopes.
 - **Reproducibility**: Clear sequential steps from data loading to hyperparameter tuning and final evaluation.
 - **Clean Diff**: All notebooks are committed with cleared outputs to ensure stable version control.
-
-## 📝 License
-This project is for educational purposes.
